@@ -1,6 +1,6 @@
 # Gemini Pro 中文版：Gemini 2.5 Pro 国内使用指南~（支持 Gemini-2.5-pro，无需翻墙）【7月最新更新】
 
-> **更新日期：2025/07/25**     
+> **更新日期：2025/07/26**     
 
 全面体验 [**Gemini 中文版**](https://chat.lanjingai.org)，**国内直连，无需翻墙**，**支持 Gemini 2.5 Pro 及中文版功能**   
 
